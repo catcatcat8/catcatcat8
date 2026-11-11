@@ -12,7 +12,7 @@ Senior blockchain developer. I build smart contracts and the backends around the
 
 **Open source:** [DefiLlama adapters](https://github.com/DefiLlama/DefiLlama-Adapters/pulls?q=is%3Apr+author%3Acatcatcat8+is%3Amerged) · [Pontem liquidswap-sdk](https://github.com/pontem-network/liquidswap-sdk/pulls?q=is%3Apr+author%3Acatcatcat8+is%3Amerged)
 
-**Hackathons:** 1st place, More.Tech by VTB 2024 · 4th place, ETH Bishkek 2025
+**Hackathons:** 1st place, More.Tech by VTB 2024 · ETH Bishkek 2025 (Xsolla track)
 
 Open to remote Smart Contract, Protocol and Blockchain Backend roles.
 
