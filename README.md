@@ -11,7 +11,9 @@ Senior blockchain developer. I build smart contracts and the backends around the
 **Recent:** [amm-launch-guard](https://github.com/catcatcat8/amm-launch-guard) launches Uniswap V2/V3 pools at the exact price despite pool griefing. A scan of all PancakeSwap V2 pairs found almost 12,000 pairs blocked by this attack.
 
 **Open source:** [DefiLlama adapters](https://github.com/DefiLlama/DefiLlama-Adapters/pulls?q=is%3Apr+author%3Acatcatcat8+is%3Amerged) · [Pontem liquidswap-sdk](https://github.com/pontem-network/liquidswap-sdk/pulls?q=is%3Apr+author%3Acatcatcat8+is%3Amerged)
+
 **Hackathons:** 1st place, More.Tech by VTB 2024 · 4th place, ETH Bishkek 2025
 
 Open to remote Smart Contract, Protocol and Blockchain Backend roles.
+
 [LinkedIn](https://www.linkedin.com/in/evgeniy-lebedev/) · Telegram [@lebedev0x](https://t.me/lebedev0x) · 0xlebedev@gmail.com
